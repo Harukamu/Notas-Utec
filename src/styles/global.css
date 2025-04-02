@@ -7,7 +7,7 @@
 /* Fondo general de la página */
 body {
   font-family: Arial, sans-serif; /* Fuente legible */
-  background-color: #9ea8e2; /* Color de fondo suave */
+  background-color: #b5c0ff; /* Color de fondo suave */
   display: flex;
   justify-content: center; /* Centra horizontalmente */
   align-items: center; /* Centra verticalmente */

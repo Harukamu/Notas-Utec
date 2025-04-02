@@ -10,7 +10,7 @@
   width: 420px;
   min-height: 230px; /* Mínima altura, pero sin una altura fija */
   text-align: center;
-  background-color: #07cdff;
+  background-color: #43d7fc;
   display: flex;
   flex-direction: column;
   justify-content: space-between; /* Distribuye el contenido uniformemente */
